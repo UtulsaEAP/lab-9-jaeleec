@@ -13,7 +13,8 @@ def string_reverse(input_string):
     reverse_input = ''
     
    #write your for loop here
-    
+    for i in reverse_input:
+        
     return reverse_input
 
 if __name__ == '__main__':
