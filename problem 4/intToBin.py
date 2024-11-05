@@ -28,3 +28,5 @@ if __name__ == '__main__':
     binary_string = str(string_reverse(binary_string))
     
     print(binary_string)
+
+# good
