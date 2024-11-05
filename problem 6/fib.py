@@ -1,7 +1,9 @@
 def fibonacci(n):
-    
-    #write your code here
-    return
+    i = 1
+    while i < n: 
+        i = i + i+1
+    n = i
+    return(n)
 
 if __name__ == '__main__':
     start_num = int(input())
